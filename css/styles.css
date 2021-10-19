@@ -10,7 +10,6 @@ body {
 #boton-buscar {
   background-color: rgba(255, 166, 0, 0.8);
   color: white;
-  height: 35px;
 }
 #boton-buscar:hover {
   background-color: gray;
